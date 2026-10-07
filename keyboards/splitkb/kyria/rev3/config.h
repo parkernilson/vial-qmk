@@ -19,4 +19,4 @@
 #define OLED_DISPLAY_128X64
 #define SPLIT_OLED_ENABLE
 
-#define DEBOUNCE 15
+#define DEBOUNCE 30
